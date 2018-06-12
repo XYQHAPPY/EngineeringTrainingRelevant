@@ -1,3 +1,3 @@
 # EngineeringTrainingRelevant
 工程训练
-EngineeringTraining
+使用框架ThinkPHP实现的学生考勤系统工程源码在文件夹EngineeringTrainingMain下面
